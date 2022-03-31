@@ -51,6 +51,11 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 **[Dev.to](https://dev.to/bernardo) Blog Posts**
 
 <!-- BLOG:START -->
+- [Finops na prática](https://dev.to/aws-builders/finops-na-pratica-aed)
+- [Implementando Istio no EKS](https://dev.to/aws-builders/implementando-istio-no-eks-3jc4)
+- [Provisionando EKS com Terraform](https://dev.to/aws-builders/provisionando-eks-com-terraform-3e41)
+- [Usando Ansible localmente](https://dev.to/bernardo/usando-ansible-localmente-1hb9)
+- [Configurações de permissão para acessar a lista de IP no bucket S3 com Guard Duty](https://dev.to/aws-builders/configuracoes-de-permissao-para-acessar-a-lista-de-ip-no-bucket-s3-com-guard-duty-i8g)
 <!-- BLOG:END -->
 
 **Talks**
