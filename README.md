@@ -48,7 +48,7 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 
 ![Snake animation](https://raw.githubusercontent.com/codethi/codethi/69645ac9673d2bb64039e312397effbc05d19356/github-contribution-grid-snake.svg)
 
-**[Dev.to](https://dev.to/bernardo) Blog Post**
+**[Dev.to](https://dev.to/bernardo) Blog Posts**
 
 <!-- BLOG:START -->
 <!-- BLOG:END -->
