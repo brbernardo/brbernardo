@@ -48,6 +48,10 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 
 ![Snake animation](https://raw.githubusercontent.com/codethi/codethi/69645ac9673d2bb64039e312397effbc05d19356/github-contribution-grid-snake.svg)
 
+**Community leader**
+- [Continuous Delivery Foundation - Chapter Lead](https://community.cd.foundation/cdf-brazil/)
+- [Coordenação Trilha DEVOPS - TDC](https://thedevconf.com/tdc/2022/innovation/trilha-devops?)
+
 **[Dev.to](https://dev.to/bernardo) Blog Posts**
 
 <!-- BLOG:START -->
@@ -58,7 +62,7 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 - [Usando Ansible localmente](https://dev.to/bernardo/usando-ansible-localmente-1hb9)
 <!-- BLOG:END -->
 
-**Talks**
+**Talks & events**
 
 - [The Developer's Conference](https://thedevconf.com/tdc/2022/connections/trilha-devops?) - FinOps na pratica
 - [HashiTalks: Brasil 2021](https://events.hashicorp.com/hashitalksbrasil2021) - [Testando infraestrutura com Terraform](https://www.youtube.com/watch?v=sQdxLv5xZf0&list=PL81sUbsFNc5agdrEMDtU6IGyxBMv6Fq8i&index=17)
@@ -67,6 +71,7 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 
 **Awards**
 
+- [HashiCorp Ambassador](https://www.hashicorp.com/ambassador-nominations)
 - [Continuous Delivery Foundation - Community Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
 - [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/)
 - [Gitlab Hero](https://about.gitlab.com/community/heroes/members/)
