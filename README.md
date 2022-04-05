@@ -48,11 +48,11 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 
 ![Snake animation](https://raw.githubusercontent.com/codethi/codethi/69645ac9673d2bb64039e312397effbc05d19356/github-contribution-grid-snake.svg)
 
-**Community leader**
+**Community manager**
 - [Continuous Delivery Foundation - Chapter Lead](https://community.cd.foundation/cdf-brazil/)
 - [Coordenação Trilha DEVOPS - TDC](https://thedevconf.com/tdc/2022/innovation/trilha-devops?)
 
-**[Dev.to](https://dev.to/bernardo) Blog Posts**
+**Blog Posts**
 
 <!-- BLOG:START -->
 - [Finops na prática - Informando](https://dev.to/aws-builders/finops-na-pratica-informando-10h1)
