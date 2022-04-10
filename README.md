@@ -25,7 +25,6 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 
 ![Working](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrbimr5bcxmevdp8h704.gif)
 
-
 ---
 
 ## **About Me**
@@ -76,10 +75,6 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 - [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/)
 - [Gitlab Hero](https://about.gitlab.com/community/heroes/members/)
 - [Gitkraken Ambassador](https://www.gitkraken.com/ambassador)
-
-**Open-source Projects**
-
-- Regular contributors to the Kubernetes documentation [sig-docs](https://github.com/kubernetes/community/blob/master/sig-docs/README.md)
 
 **Publication**
 
