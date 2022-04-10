@@ -55,11 +55,11 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 **Blog Posts**
 
 <!-- BLOG:START -->
+- [Finops na prática - Otimização de custos](https://dev.to/aws-builders/finops-na-pratica-otimizacao-de-custos-50b2)
 - [Finops na prática - Informando](https://dev.to/aws-builders/finops-na-pratica-informando-10h1)
 - [Finops na prática](https://dev.to/aws-builders/finops-na-pratica-aed)
 - [Implementando Istio no EKS](https://dev.to/aws-builders/implementando-istio-no-eks-3jc4)
 - [Provisionando EKS com Terraform](https://dev.to/aws-builders/provisionando-eks-com-terraform-3e41)
-- [Usando Ansible localmente](https://dev.to/bernardo/usando-ansible-localmente-1hb9)
 <!-- BLOG:END -->
 
 **Talks & events**
