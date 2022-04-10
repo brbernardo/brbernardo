@@ -71,7 +71,7 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 
 **Awards**
 
-- [HashiCorp Ambassador](https://www.hashicorp.com/ambassador-nominations)
+- [HashiCorp Ambassador](https://www.credly.com/badges/fb2ccc42-98ad-4322-bbc6-c661d3e9dee6/public_url)
 - [Continuous Delivery Foundation - Community Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
 - [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/)
 - [Gitlab Hero](https://about.gitlab.com/community/heroes/members/)
