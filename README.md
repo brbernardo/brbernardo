@@ -39,7 +39,7 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 - As a mentor/manager, I believe that these conversations are guided based on the agenda you want to set. What would you like to talk about? What's going well? What is bothering you? How can I help you?
 - If there are things I want to ask you, I will do it, but this is your turn. If I have feedback, I will also provide it during that time.
 - I try to write regularly in [dev.to/bernardo](https://dev.to/bernardo)
-- I write some provocations on [Linkedin](https://www.linkedin.com/in/brbernardo/) and [Twitter](https://twitter.com/_BrBernardo)
+- I write some provocations on [Linkedin](https://www.linkedin.com/in/brbernardo/) and [Twitter](https://twitter.com/brbernardoluiz)
 - Currently I lead the Architecture and Devops area in the company [DB1 Global Software](https://github.com/db1group)
 
 ---
