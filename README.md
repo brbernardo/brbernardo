@@ -54,11 +54,11 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 **Blog Posts**
 
 <!-- BLOG:START -->
+- [Jenkins em escala](https://dev.to/aws-builders/jenkins-em-escala-4a98)
 - [Finops na prática - Operar](https://dev.to/aws-builders/finops-na-pratica-operar-18c4)
 - [Finops na prática - Otimização de custos](https://dev.to/aws-builders/finops-na-pratica-otimizacao-de-custos-50b2)
 - [Finops na prática - Informando](https://dev.to/aws-builders/finops-na-pratica-informando-10h1)
 - [Finops na prática](https://dev.to/aws-builders/finops-na-pratica-aed)
-- [Implementando Istio no EKS](https://dev.to/aws-builders/implementando-istio-no-eks-3jc4)
 <!-- BLOG:END -->
 
 **Talks & events**
