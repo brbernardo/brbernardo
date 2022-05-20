@@ -1,6 +1,6 @@
 ## Hi, I'm Bernardo.
 
-I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyrxkkn5srewg.jpg) father
+I'm [Code](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyrxkkn5srewg.jpg) father
 <div>
     <p >
     <a href="https://www.linkedin.com/in/brbernardo" target="_blank">
