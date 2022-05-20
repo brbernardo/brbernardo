@@ -1,7 +1,6 @@
 ## Hi, I'm Bernardo.
 
-I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyrxkkn5srewg.jpg)  father and [Daniela's](https://www.instagram.com/danifsantos.br/) husband.
-
+I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyrxkkn5srewg.jpg) father
 <div>
     <p >
     <a href="https://www.linkedin.com/in/brbernardo" target="_blank">
