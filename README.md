@@ -30,16 +30,16 @@ I'm [Code](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyrxk
 
 ### A mix of personal and trivial:
 
-- I was born and raised in [Rio de Janeiro](https://pt.wikipedia.org/wiki/Rio_de_Janeiro) and I'm currently living in [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo)
+- I was born and raised in Rio de Janeiro and I'm currently living in carioca lands.
 - I specialize in Internet systems, centering my practices and learning around Finops and DevSecOPS engineering to help my teams deliver software with operational excellence, security, reliability, performance efficiency and cost optimization.
 - I am proud of the relationships I build at work. My goal is to have an authentic, open and trusting relationship with you. I'm not going to lie to you about how I feel, or what's going on inside my head. I will work to build a sense of companionship, so please get in touch if you want to chat!
 - I always assume that you are very good at your job and that you are here to add value to our company and the people around you. You are also the expert. I will work to provide the necessary context and ask questions to help you get your ideas, but I will not replace it.
-- I value connecting with my team regularly. I'm a 1:1s fan and I also love to experience the almost "personal" interactions of a video call
-- As a mentor/manager, I believe that these conversations are guided based on the agenda you want to set. What would you like to talk about? What's going well? What is bothering you? How can I help you?
-- If there are things I want to ask you, I will do it, but this is your turn. If I have feedback, I will also provide it during that time.
+- I value asynchronous communication, please don't just say "hello" in chat. A suggestion for how we talk asynchronously: https://nohello.net/
+- My personality is [Turbulent Logician (INTP-T)](https://www.16personalities.com/profiles/d9093787aa9eb)
 - I try to write regularly in [dev.to/bernardo](https://dev.to/bernardo)
-- I write some provocations on [Linkedin](https://www.linkedin.com/in/brbernardo/) and [Twitter](https://twitter.com/brbernardoluiz)
-- Currently I lead the Architecture and Devops area in the company [DB1 Global Software](https://github.com/db1group)
+- I write some provocations on [Linkedin](https://www.linkedin.com/in/brbernardo/) and [Twitter](https://twitter.com/_brbernardo)
+- Currently as Senior DevOps Engineer in some companies.
+
 
 ---
 ## **Community Contributions**
