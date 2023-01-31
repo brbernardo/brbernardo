@@ -1,6 +1,6 @@
 ## Hi, I'm Bernardo.
 
-I'm [Code](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyrxkkn5srewg.jpg) father
+
 <div>
     <p >
     <a href="https://www.linkedin.com/in/brbernardo" target="_blank">
@@ -29,6 +29,8 @@ I'm [Code](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyrxk
 ## **About Me**
 
 ### A mix of personal and trivial:
+
+- I'm [Code](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyrxkkn5srewg.jpg) father
 
 - I was born and raised in Rio de Janeiro and I'm currently living in carioca lands.
 
