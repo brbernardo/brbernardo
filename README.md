@@ -18,6 +18,9 @@
     <a href="https://www.playstation.com/pt-br/support/account/add-friends-psn/">
       <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="">
     </a>
+    <a href="https://twitter.com/_brbernardo" target="_blank">
+      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="">
+    </a>
     </p>
 </div>
 ---
@@ -40,10 +43,10 @@
 
 * I value asynchronous communication, please don't just say "hello" in chat. A suggestion for how we talk asynchronously: https://nohello.net/
 
-* My personality is Turbulent Logician (INTP-T)
-    - Traits: Introverted – 65%, Intuitive – 51%, Thinking – 75%, Prospecting – 54%, Turbulent – 51%
-    - Role: Analyst
-    - Strategy: Constant Improvement
+* My personality is [Turbulent Logician (INTP-T)](https://www.16personalities.com/profiles/d9093787aa9eb)
+    - **Traits**: Introverted – 65%, Intuitive – 51%, Thinking – 75%, Prospecting – 54%, Turbulent – 51%
+    - **Role**: Analyst
+    - **Strategy**: Constant Improvement
 
 * I try to write regularly in dev.to/bernardo and some provocations on Linkedin and Twitter
 
