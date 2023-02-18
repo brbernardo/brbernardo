@@ -81,6 +81,8 @@ Dev.to
 
 ## **StackOverflow Activity**
 <!-- STACKOVERFLOW:START -->
+- [Answer by Luiz Bernardo for Cloud-init File skip Github registration](https://stackoverflow.com/questions/75195474/cloud-init-file-skip-github-registration/75200625#75200625)
+- [Answer by Luiz Bernardo for az cli logging into wrong account](https://stackoverflow.com/questions/75197387/az-cli-logging-into-wrong-account/75198259#75198259)
 <!-- STACKOVERFLOW:END -->
 
 ## **Talks & events**
