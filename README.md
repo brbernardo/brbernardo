@@ -61,13 +61,15 @@
 - [Continuous Delivery Foundation - Chapter Lead](https://community.cd.foundation/cdf-brazil/)
 - [Coordenação Trilha DEVOPS - TDC](https://thedevconf.com/tdc/2022/innovation/trilha-devops?)
 
-**Blog Posts**
+## **Blog Posts**
 
-## Community.ops
+### Community.ops.io 
+
 <!-- BLOGOPS:START -->
 - [HCL Native Syntax Specification](https://community.ops.io/bernardo/hcl-native-syntax-specification-1cng)
 <!-- BLOGOPS:END -->
-## Dev.to
+
+### Dev.to
 
 <!-- BLOG:START -->
 - [Jenkins em escala](https://dev.to/aws-builders/jenkins-em-escala-4a98)
@@ -77,14 +79,14 @@
 - [Finops na prática](https://dev.to/aws-builders/finops-na-pratica-aed)
 <!-- BLOG:END -->
 
-**Talks & events**
+## **Talks & events**
 
 - [The Developer's Conference](https://thedevconf.com/tdc/2022/connections/trilha-devops?) - FinOps na pratica
 - [HashiTalks: Brasil 2021](https://events.hashicorp.com/hashitalksbrasil2021) - [Testando infraestrutura com Terraform](https://www.youtube.com/watch?v=sQdxLv5xZf0&list=PL81sUbsFNc5agdrEMDtU6IGyxBMv6Fq8i&index=17)
 - [The Developer's Conference ](https://thedevconf.com/tdc/2021/innovation/trilha-management-e-gestao-agil?) - Desempenho individual em um mundo não tão ágil
 - [Agile Trends 2021](https://agiletrendsbr.com/programacaocolisao/) - Desenvolvimento Ágil de aplicações seguras
 
-**Awards**
+## **Awards**
 
 - [HashiCorp Ambassador](https://www.credly.com/badges/fb2ccc42-98ad-4322-bbc6-c661d3e9dee6/public_url)
 - [Continuous Delivery Foundation - Community Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
@@ -92,7 +94,7 @@
 - [Gitlab Hero](https://about.gitlab.com/community/heroes/members/)
 - [Gitkraken Ambassador](https://www.gitkraken.com/ambassador)
 
-**Publication**
+## **Publication**
 
 - [Jornada Ágil de Liderança](https://www.amazon.com.br/Jornada-%C3%81gil-Lideran%C3%A7a-Antonio-Muniz/dp/6588431066/ref=sr_1_29?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=luiz+felipe+bernardo&qid=1639434048&sr=8-29&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d)
 ---
