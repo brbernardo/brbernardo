@@ -66,6 +66,7 @@
 Community.OPS.io
 
 <!-- BLOGOPS:START -->
+- [Modules Terraform](https://community.ops.io/bernardo/modules-terraform-247d)
 - [HCL Native Syntax Specification](https://community.ops.io/bernardo/hcl-native-syntax-specification-1cng)
 <!-- BLOGOPS:END -->
 
