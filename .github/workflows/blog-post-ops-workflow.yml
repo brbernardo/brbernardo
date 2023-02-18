@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOGOPS
-          feed_list: "https://community.ops.io/bernardo"
+          feed_list: "https://community.ops.io/feed/bernardo"
