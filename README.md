@@ -81,6 +81,7 @@ Dev.to
 
 ## **StackOverflow Activity**
 <!-- STACKOVERFLOW:START -->
+- [Answer by Luiz Bernardo for How to split output github actions](https://stackoverflow.com/questions/75439025/how-to-split-output-github-actions/75496034#75496034)
 - [Answer by Luiz Bernardo for How do you specify an integration request with API gateway and Kinesis data streams in terraform?](https://stackoverflow.com/questions/75474494/how-do-you-specify-an-integration-request-with-api-gateway-and-kinesis-data-stre/75495787#75495787)
 - [Answer by Luiz Bernardo for Cloud-init File skip Github registration](https://stackoverflow.com/questions/75195474/cloud-init-file-skip-github-registration/75200625#75200625)
 - [Answer by Luiz Bernardo for az cli logging into wrong account](https://stackoverflow.com/questions/75197387/az-cli-logging-into-wrong-account/75198259#75198259)
