@@ -65,6 +65,7 @@
 
 ## Community.ops
 <!-- BLOGOPS:START -->
+- [HCL Native Syntax Specification](https://community.ops.io/bernardo/hcl-native-syntax-specification-1cng)
 <!-- BLOGOPS:END -->
 ## Dev.to
 
