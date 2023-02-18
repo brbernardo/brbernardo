@@ -17,4 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOGOPS
+          commit_message: "Updated feed with the latest ops.io data"
           feed_list: "https://community.ops.io/feed/bernardo"

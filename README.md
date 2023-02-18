@@ -57,19 +57,19 @@
 
 ![Snake animation](https://raw.githubusercontent.com/codethi/codethi/69645ac9673d2bb64039e312397effbc05d19356/github-contribution-grid-snake.svg)
 
-**Community manager**
+## **Community manager**
 - [Continuous Delivery Foundation - Chapter Lead](https://community.cd.foundation/cdf-brazil/)
 - [Coordenação Trilha DEVOPS - TDC](https://thedevconf.com/tdc/2022/innovation/trilha-devops?)
 
 ## **Blog Posts**
 
-### Community.ops.io 
+Community.OPS.io
 
 <!-- BLOGOPS:START -->
 - [HCL Native Syntax Specification](https://community.ops.io/bernardo/hcl-native-syntax-specification-1cng)
 <!-- BLOGOPS:END -->
 
-### Dev.to
+Dev.to
 
 <!-- BLOG:START -->
 - [Jenkins em escala](https://dev.to/aws-builders/jenkins-em-escala-4a98)
@@ -78,6 +78,10 @@
 - [Finops na prática - Informando](https://dev.to/aws-builders/finops-na-pratica-informando-10h1)
 - [Finops na prática](https://dev.to/aws-builders/finops-na-pratica-aed)
 <!-- BLOG:END -->
+
+## **StackOverflow Activity**
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 ## **Talks & events**
 

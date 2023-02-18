@@ -17,4 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG
+          commit_message: "Updated feed with the latest dav.to data"
           feed_list: "https://dev.to/feed/bernardo"
