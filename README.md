@@ -66,6 +66,7 @@
 Community.OPS.io
 
 <!-- BLOGOPS:START -->
+- [Free courses and labs for Jenkins](https://community.ops.io/bernardo/free-courses-and-labs-for-jenkins-2bc5)
 - [Modules Terraform](https://community.ops.io/bernardo/modules-terraform-247d)
 - [HCL Native Syntax Specification](https://community.ops.io/bernardo/hcl-native-syntax-specification-1cng)
 <!-- BLOGOPS:END -->
