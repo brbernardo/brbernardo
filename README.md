@@ -63,14 +63,6 @@
 
 ## **Blog Posts**
 
-Community.OPS.io
-
-<!-- BLOGOPS:START -->
-- [Free courses and labs for Jenkins](https://community.ops.io/bernardo/free-courses-and-labs-for-jenkins-2bc5)
-- [Modules Terraform](https://community.ops.io/bernardo/modules-terraform-247d)
-- [HCL Native Syntax Specification](https://community.ops.io/bernardo/hcl-native-syntax-specification-1cng)
-<!-- BLOGOPS:END -->
-
 Dev.to
 
 <!-- BLOG:START -->
@@ -81,11 +73,13 @@ Dev.to
 - [Finops na prática](https://dev.to/aws-builders/finops-na-pratica-aed)
 <!-- BLOG:END -->
 
-## **StackOverflow Activity**
-<!-- STACKOVERFLOW:START -->
-- [Answer by Luiz Bernardo for Cloud-init File skip Github registration](https://stackoverflow.com/questions/75195474/cloud-init-file-skip-github-registration/75200625#75200625)
-- [Answer by Luiz Bernardo for az cli logging into wrong account](https://stackoverflow.com/questions/75197387/az-cli-logging-into-wrong-account/75198259#75198259)
-<!-- STACKOVERFLOW:END -->
+Community.OPS.io
+
+<!-- BLOGOPS:START -->
+- [Free courses and labs for Jenkins](https://community.ops.io/bernardo/free-courses-and-labs-for-jenkins-2bc5)
+- [Modules Terraform](https://community.ops.io/bernardo/modules-terraform-247d)
+- [HCL Native Syntax Specification](https://community.ops.io/bernardo/hcl-native-syntax-specification-1cng)
+<!-- BLOGOPS:END -->
 
 ## **Talks & events**
 
