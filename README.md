@@ -66,11 +66,11 @@
 Dev.to
 
 <!-- BLOG:START -->
+- [Boas praticas com Git](https://dev.to/bernardo/boas-praticas-com-git-jdm)
 - [Introdução ao Terraform Import](https://dev.to/bernardo/terraform-import-2igi)
 - [Jenkins em escala](https://dev.to/aws-builders/jenkins-em-escala-4a98)
 - [Finops na prática - Operar](https://dev.to/aws-builders/finops-na-pratica-operar-18c4)
 - [Finops na prática - Otimização de custos](https://dev.to/aws-builders/finops-na-pratica-otimizacao-de-custos-50b2)
-- [Finops na prática - Informando](https://dev.to/aws-builders/finops-na-pratica-informando-10h1)
 <!-- BLOG:END -->
 
 Community.OPS.io
