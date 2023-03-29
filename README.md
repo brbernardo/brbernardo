@@ -66,11 +66,11 @@
 Dev.to
 
 <!-- BLOG:START -->
+- [Abordagem Innersource nas organizações](https://dev.to/bernardo/abordagem-innersource-nas-organizacoes-107b)
 - [Migrando repositorio Git](https://dev.to/bernardo/migrando-repositorio-git-2c9o)
 - [Boas praticas com Git](https://dev.to/bernardo/boas-praticas-com-git-jdm)
 - [Introdução ao Terraform Import](https://dev.to/bernardo/terraform-import-2igi)
 - [Jenkins em escala](https://dev.to/aws-builders/jenkins-em-escala-4a98)
-- [Finops na prática - Operar](https://dev.to/aws-builders/finops-na-pratica-operar-18c4)
 <!-- BLOG:END -->
 
 Community.OPS.io
