@@ -66,11 +66,11 @@
 Dev.to
 
 <!-- BLOG:START -->
+- [Criando AMI usando o Packer e Amazon Linux 2023 &lpar;AL2023&rpar; com o Azure Pipelines](https://dev.to/bernardo/criando-ami-usando-o-packer-e-amazon-linux-2023-al2023-com-o-azure-pipelines-5bh)
 - [Abordagem Innersource nas organizações](https://dev.to/bernardo/abordagem-innersource-nas-organizacoes-107b)
 - [Migrando repositorio Git](https://dev.to/bernardo/migrando-repositorio-git-2c9o)
 - [Boas praticas com Git](https://dev.to/bernardo/boas-praticas-com-git-jdm)
 - [Introdução ao Terraform Import](https://dev.to/bernardo/terraform-import-2igi)
-- [Jenkins em escala](https://dev.to/aws-builders/jenkins-em-escala-4a98)
 <!-- BLOG:END -->
 
 Community.OPS.io
