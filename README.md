@@ -3,23 +3,34 @@
 
 <div>
     <p >
+    <a href="https://dev.to/bernardo">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="">
+    </a>
     <a href="https://www.linkedin.com/in/brbernardo" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
     </a>
-    <a href="https://dev.to/bernardo">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="">
+    <a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=luiz%2Bbernardo&cb-cards.q_operator=AND">
+      <img src="https://img.shields.io/badge/AWS Community Builders-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="">
     </a>
-    <a href="https://account.xbox.com/pt-BR/Profile?xr=BrBernardo0">
-      <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="">
+    <a href="https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/407862">
+      <img src="https://img.shields.io/badge/GCP community-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="">
     </a>
-    <a href="https://github.com/brbernardo/brbernardo/blob/main/How-to-Add-Friends-Nintendo-Switch.md">
-      <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="">
-    </a>
-    <a href="https://www.playstation.com/pt-br/support/account/add-friends-psn/">
-      <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="">
+    <a href="https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1230828#profile">
+      <img src="https://img.shields.io/badge/Azure community-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="">
     </a>
     <a href="https://twitter.com/_brbernardo" target="_blank">
       <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="">
+    </a>
+        <a href="https://account.xbox.com/pt-BR/Profile?xr=BrBernardo0">
+      <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="">
+    </a>
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="">
+    </a>
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white" alt="">
     </a>
     </p>
 </div>
