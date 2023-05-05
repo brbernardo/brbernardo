@@ -78,10 +78,10 @@ Dev.to
 
 <!-- BLOG:START -->
 - [Configurando um Cluster Elasticsearch em Contêineres Docker](https://dev.to/bernardo/configurando-um-cluster-elasticsearch-em-conteineres-docker-4mgb)
+- [Usando Terraform no Azure Pipelines](https://dev.to/bernardo/usando-terraform-no-azure-pipelines-34n7)
 - [Build no Azure Pipelines](https://dev.to/bernardo/build-no-azure-pipelines-33c8)
 - [Azure Pipelines](https://dev.to/bernardo/azure-pipelines-3k9)
 - [O que é uma pipeline?](https://dev.to/bernardo/o-que-e-uma-pipeline-62c)
-- [Criando AMI usando o Packer e Amazon Linux 2023 &lpar;AL2023&rpar; com o Azure Pipelines](https://dev.to/bernardo/criando-ami-usando-o-packer-e-amazon-linux-2023-al2023-com-o-azure-pipelines-5bh)
 <!-- BLOG:END -->
 
 Community.OPS.io
