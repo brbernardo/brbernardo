@@ -77,11 +77,11 @@
 Dev.to
 
 <!-- BLOG:START -->
+- [Evite Commits Problemáticos e Mantenha seu Projeto Limpo](https://dev.to/bernardo/evite-commits-problematicos-e-mantenha-seu-projeto-limpo-4fhp)
 - [Como utilizar o Kibana para visualizar e analisar dados no Elastic](https://dev.to/bernardo/como-utilizar-o-kibana-para-visualizar-e-analisar-dados-no-elastic-4ikn)
 - [Configurando um Cluster Elasticsearch em Contêineres Docker](https://dev.to/bernardo/configurando-um-cluster-elasticsearch-em-conteineres-docker-4mgb)
 - [Usando Terraform no Azure Pipelines](https://dev.to/bernardo/usando-terraform-no-azure-pipelines-34n7)
 - [Build no Azure Pipelines](https://dev.to/bernardo/build-no-azure-pipelines-33c8)
-- [Azure Pipelines](https://dev.to/bernardo/azure-pipelines-3k9)
 <!-- BLOG:END -->
 
 Community.OPS.io
