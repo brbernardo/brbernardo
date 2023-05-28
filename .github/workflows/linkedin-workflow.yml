@@ -16,6 +16,6 @@ jobs:
       - name: Updating blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: BLOGOPS
+          comment_tag_name: LINKEDIN
           commit_message: "Updated feed with the latest ops.io data"
-          feed_list: "https://community.ops.io/feed/bernardo"
+          feed_list: "https://www.linkedin.com/in/brbernardo/recent-activity/all/"
