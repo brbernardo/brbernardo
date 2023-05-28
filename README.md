@@ -84,15 +84,6 @@ Dev.to
 - [Build no Azure Pipelines](https://dev.to/bernardo/build-no-azure-pipelines-33c8)
 <!-- BLOG:END -->
 
-Community.OPS.io
-
-<!-- LINKEDIN:START -->
-- [Terraform plan visualization](https://community.ops.io/bernardo/terraform-plan-visualization-5a35)
-- [Import Terraform](https://community.ops.io/bernardo/import-terraform-466k)
-- [Free courses and labs for Jenkins](https://community.ops.io/bernardo/free-courses-and-labs-for-jenkins-2bc5)
-- [Modules Terraform](https://community.ops.io/bernardo/modules-terraform-247d)
-- [HCL Native Syntax Specification](https://community.ops.io/bernardo/hcl-native-syntax-specification-1cng)
-<!-- LINKEDIN:END -->
 
 ## **Talks & events**
 
