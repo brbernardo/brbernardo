@@ -77,11 +77,11 @@
 Dev.to
 
 <!-- BLOG:START -->
+- [Comparativo entre os Protocolos de Comunicação PROFINET e PROFIBUS PA](https://dev.to/bernardo/comparativo-entre-os-protocolos-de-comunicacao-profinet-e-profibus-pa-4e9j)
 - [Azure Board com quadro Kanban](https://dev.to/bernardo/azure-board-com-quadro-kanban-55j7)
 - [Evite Commits Problemáticos e Mantenha seu Projeto Limpo](https://dev.to/bernardo/evite-commits-problematicos-e-mantenha-seu-projeto-limpo-4fhp)
 - [Como utilizar o Kibana para visualizar e analisar dados no Elastic](https://dev.to/bernardo/como-utilizar-o-kibana-para-visualizar-e-analisar-dados-no-elastic-4ikn)
 - [Configurando um Cluster Elasticsearch em Contêineres Docker](https://dev.to/bernardo/configurando-um-cluster-elasticsearch-em-conteineres-docker-4mgb)
-- [Usando Terraform no Azure Pipelines](https://dev.to/bernardo/usando-terraform-no-azure-pipelines-34n7)
 <!-- BLOG:END -->
 
 
